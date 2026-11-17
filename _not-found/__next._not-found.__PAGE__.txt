@@ -1,0 +1,35 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/1n1qtvia1wqax.js"
+3:"/_next/static/chunks/0o4f6uzz23mal.js"
+4:I[71829,["$2","$3"],"MotionProvider"]
+5:I[39756,["$2","$3"],"default"]
+6:I[37457,["$2","$3"],"default"]
+7:"/_next/static/chunks/3zt_16xndew4w.js"
+8:I[22016,["$2","$3","$7"],""]
+f:I[97367,["$2","$3"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[97367,["$2","$3"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$2","$3"],"$15"]
+:HL["/_next/static/chunks/3y359yks8svab.css","style"]
+a:X
+d:X
+d:C
+e:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"id":"main","className":"flex min-h-dvh flex-col items-center justify-center px-5 text-center","children":[["$","p",null,{"className":"font-mono text-sm text-brand-cyan","children":"404"}],["$","h1",null,{"className":"mt-3 text-4xl font-semibold text-white","children":"This page doesn't exist"}],["$","$L8",null,{"href":"/","className":"mt-8 rounded-full bg-accent px-6 py-3 font-medium text-white","children":"Back home"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/3zt_16xndew4w.js","async":true}]],["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":"$@12","v":null,"s":"$a"}}]]
+b:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@c","v":"$d","s":"$a"},"c":"$Qe"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3y359yks8svab.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/1n1qtvia1wqax.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0o4f6uzz23mal.js","async":true}]],["$","html",null,{"lang":"en","data-scroll-behavior":"smooth","className":"Ur3q_a_variable iaM1Ya_variable","children":["$","body",null,{"className":"min-h-dvh font-sans","children":[["$","a",null,{"href":"#main","className":"sr-only focus:not-sr-only focus:fixed focus:top-3 focus:left-3 focus:z-[100] focus:rounded-lg focus:bg-white focus:px-4 focus:py-2 focus:text-ink-950","children":"Skip to content"}],["$","$L4",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}],"notFound":[["$","main",null,{"id":"main","className":"flex min-h-dvh flex-col items-center justify-center px-5 text-center","children":[["$","p",null,{"className":"font-mono text-sm text-brand-cyan","children":"404"}],["$","h1",null,{"className":"mt-3 text-4xl font-semibold text-white","children":"This page doesn't exist"}],["$","$L8",null,{"href":"/","className":"mt-8 rounded-full bg-accent px-6 py-3 font-medium text-white","children":"Back home"}]]}],[]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Omicron\",\"slogan\":\"Knowledge, multiplied.\",\"description\":\"Omicron captures a subject matter expert's voice and thinking, turns SOPs and documents into narrated interactive modules, and gives every learner a voice tutor they can cross-question live.\",\"url\":\"https://om2524.com\",\"email\":\"om@om2524.com\"}"}}]]}]}]]}],"p":"$@9","v":null,"s":"$a"},"c":"$Qb"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#05060d"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Page not found | Omicron"}],["$","meta","1",{"name":"description","content":"Omicron captures a subject matter expert's voice and thinking, turns SOPs and documents into narrated interactive modules, and gives every learner a voice tutor they can cross-question live."}],["$","meta","2",{"name":"application-name","content":"Omicron"}],["$","meta","3",{"name":"keywords","content":"knowledge transfer,AI training platform,voice cloning,SOP training,expert knowledge capture,AI voice tutor,maritime training,enterprise training,AI for schools"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://om2524.com/"}],["$","meta","6",{"property":"og:title","content":"Omicron | AI knowledge transfer in your expert's own voice"}],["$","meta","7",{"property":"og:description","content":"Omicron captures a subject matter expert's voice and thinking, turns SOPs and documents into narrated interactive modules, and gives every learner a voice tutor they can cross-question live."}],["$","meta","8",{"property":"og:url","content":"https://om2524.com/"}],["$","meta","9",{"property":"og:site_name","content":"Omicron"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://om2524.com/og-image.png"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Omicron: Knowledge, multiplied."}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"Omicron | AI knowledge transfer in your expert's own voice"}],["$","meta","18",{"name":"twitter:description","content":"Omicron captures a subject matter expert's voice and thinking, turns SOPs and documents into narrated interactive modules, and gives every learner a voice tutor they can cross-question live."}],"$L17","$L18","$L19"]}]}],null]}],"$L1a"]}],"p":"$@1b","v":null,"s":"$a"}},"a":"$@1c","u":"$@1d","b":"gQa6lo0h4Kp8pQGDxAFNu"}
+1e:I[27201,["$2","$3"],"IconMark"]
+11:null
+17:["$","meta","19",{"name":"twitter:image","content":"https://om2524.com/og-image.png"}]
+18:["$","link","20",{"rel":"icon","href":"/icon.svg?icon.2ike2s2qse0lb.svg","sizes":"any","type":"image/svg+xml"}]
+19:["$","$L1e","21",{}]
+1a:["$","meta",null,{"name":"next-size-adjust","content":""}]
+a:300
+1d:true
+a:C
+1c:0
+c:"$undefined"
+9:"$undefined"
+1b:"$undefined"
+12:"$undefined"

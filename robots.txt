@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://om2524.com/sitemap.xml
